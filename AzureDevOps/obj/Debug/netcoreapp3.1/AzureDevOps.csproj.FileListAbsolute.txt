@@ -21,3 +21,6 @@ C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netc
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.RazorTargetAssemblyInfo.cache
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.RazorTargetAssemblyInfo.cs
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.dll
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.pdb
