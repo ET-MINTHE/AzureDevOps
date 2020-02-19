@@ -2,7 +2,6 @@ C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netc
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.exe
-C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.csprojAssemblyReference.cache
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\staticwebassets\AzureDevOps.StaticWebAssets.Manifest.cache
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\staticwebassets\AzureDevOps.StaticWebAssets.xml
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.RazorAssemblyInfo.cache
@@ -24,3 +23,12 @@ C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netc
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.dll
 C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.pdb
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.deps.json
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.runtimeconfig.json
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.runtimeconfig.dev.json
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.dll
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.pdb
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.Views.dll
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\bin\Debug\netcoreapp3.1\AzureDevOps.Views.pdb
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.Views.pdb
+C:\Users\elhad\Desktop\Desktop\C#Projects\AzureDevOps\AzureDevOps\obj\Debug\netcoreapp3.1\AzureDevOps.csproj.CopyComplete
